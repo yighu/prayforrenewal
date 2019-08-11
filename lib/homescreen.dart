@@ -101,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> implements HomeContract {
       ),
       new IconButton(
         icon: const Icon(
-          Icons.brightness_auto,
+          Icons.brightness_medium,
           color: Colors.black,
         ),
         onPressed: _switchMode,
